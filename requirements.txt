@@ -1,0 +1,10 @@
+semantic-router
+transformers
+sentencepiece
+langgraph
+langchain
+langchain-community
+pyowm
+accelerate
+tavily-python
+httpx
